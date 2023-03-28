@@ -1,34 +1,34 @@
+body {
+    font-family: "Montserrat", sans-serif;
 
-
-
-body{
-    font-family: 'Montserrat', sans-serif;
-
-background-color: #e5e5e5;
-padding: 40px;
+    background-color: #e5e5e5;
+    padding: 40px;
 }
 
 /* about me */
 
-.my-profession{
+.my-profession {
     margin-bottom: 18px;
 }
 
-.main-content{
-padding: 88px;
+.main-content {
+    padding: 88px;
 }
 
 /* wrapper */
 
-.wrapper{
-display: flex;
-flex-direction: row;
-background: #ffffff;
-width: 1200px;
-margin: 0 auto;
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    background: #ffffff;
+    width: 1200px;
+    margin: 0 auto;
 }
 
+h2 {
+    font-size: 35px;
+}
 
-h2{font-size: 35px;}
-
-li{background-color: yellow;}
+li {
+    background-color: yellow;
+}
